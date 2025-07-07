@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rusianhu-githubdailytrendingfetcher-mcp-badge.png)](https://mseep.ai/app/rusianhu-githubdailytrendingfetcher-mcp)
+
 # GitHub Trending MCP
 
 这是一个基于 FastMCP 框架的 GitHub 热门仓库获取工具，可以一次性获取 GitHub 当日的可选个数的热门仓库的详细信息，包括名称、链接、描述和 README 内容。
